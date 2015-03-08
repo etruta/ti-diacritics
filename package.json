@@ -1,0 +1,39 @@
+{
+  "name": "ti-diacritics",
+  "version": "1.0.0",
+  "description": "Remove diacritics from strings.",
+  "titaniumManifest": {
+    "name": "diacritics",
+    "moduleid": "diacritics",
+    "guid": "4446efd4-220f-b2f4-e045-953741fd03a1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/etruta/ti-diacritics.git"
+  },
+  "keywords": [
+    "titanium",
+    "appcelerator",
+    "diacritics",
+    "remove",
+    "removal",
+    "search",
+    "string"
+  ],
+  "author": "Eduardo Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/etruta/ti-diacritics/issues"
+  },
+  "homepage": "https://github.com/etruta/ti-diacritics",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-titaniumifier": "^1.1.0"
+  },
+  "dependencies": {  
+  }
+}
