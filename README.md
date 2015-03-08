@@ -1,6 +1,6 @@
 # Titanium diacritics 
 
-[![Available on gitTio](https://img.shields.io/badge/available_on-gitTio-00B4CC.svg?style=flat-square)](http://gitt.io/component/ti-diacritics)
+[![Available on gitTio](https://img.shields.io/badge/available_on-gitTio-00B4CC.svg?style=flat-square)](http://gitt.io/component/diacritics)
 
 Remove diacritics from strings.
 
